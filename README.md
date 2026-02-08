@@ -1,8 +1,14 @@
-# portfolio-analyser
-portfolio analyser 
+# Portfolio Analyzer
 
-## sample prompt
-'''
+Portfolio analysis and evaluation prompt
 
-Act as a financial portfolio analyst. Review my long-term investment portfolio and evaluate asset allocation, sector diversification, risk level, and performance balance. Identify potential rebalancing opportunities, high-risk concentrations, and any weak or underperforming holdings. Provide practical recommendations aligned with long-term investing goals.
-''''
+## Sample Prompt
+
+```
+Act as a financial portfolio analyst. Review my long-term investment portfolio and evaluate:
+- Asset allocation
+- Sector diversification
+- Risk level and performance balance
+
+Identify potential rebalancing opportunities, high-risk concentrations, and underperforming holdings. Provide practical recommendations aligned with long-term investing goals.
+```
